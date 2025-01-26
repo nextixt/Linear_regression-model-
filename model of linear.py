@@ -11,6 +11,6 @@ def linear_regression_solution(ws, vectors):
     
 linear_regression_solution(ws, vectors)
 if  results == tests:
-    print('Все тесты прошли успешно!')
+    print('All tests are complete!')
 else:
-    print('Произошла ошибка')
+    print('ERROR')
